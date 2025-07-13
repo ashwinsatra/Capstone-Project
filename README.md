@@ -124,49 +124,32 @@ Dependencies: pandas, matplotlib, seaborn, scikit-learn, statsmodels
 ## Final Report
 
 You can find the full project write-up in the report/ folder:
-
 - Group_1_Report.pdf
-
 - Group_1_Report.docx (editable version)
 
 This report covers:
-
 - Research questions
-
 - Methodology
-
 - Data sources
-
 - Results
-
 - Forecasts
-
 - Policy and supply chain recommendations
 
 ## Contributors
 - Fatima
-
 - Sunny
-
 - Dushyant
-
-- Ashwin Satra – LinkedIn | Website
+- Ashwin Satra – [LinkedIn](https://www.linkedin.com/in/ashwin-satra) | [Website](https://www.ashwinsatra.com)
 
 ## References
 
-Southern Ag Today – U.S. Beef Imports
-
-USDA Economic Research Service – Seafood Imports
-
-Southern Ag Today – U.S. Agricultural Trade Outlook
-
-Southern Ag Today – Florida Citrus Decline
-
-Southern Ag Today – Tomato Trade Wars
-
-Southern Ag Today – WASDE Reports
-
-Southern Ag Today – Sorghum Premium Drop
+- [Southern Ag Today – U.S. Beef Imports](https://southernagtoday.org/2024/08/27/u-s-beef-imports-a-quick-look-at-recent-trends/)
+- [USDA Economic Research Service – Seafood Imports](https://www.ers.usda.gov/amber-waves/2024/may/u-s-seafood-imports-expand-as-domestic-aquaculture-industry-repositions-itself)
+- [Southern Ag Today – U.S. Agricultural Trade Outlook](https://southernagtoday.org/2025/01/09/2025-u-s-agricultural-trade-outlook-navigating-uncertainty-amid-policy-shifts)
+- [Southern Ag Today – Florida Citrus Decline](https://southernagtoday.org/2024/01/05/citrus-greening-hurricanes-and-the-decline-of-the-florida-citrus-industry)
+- [Southern Ag Today – Tomato Trade Wars](https://southernagtoday.org/2025/05/01/tomato-trade-wars-how-the-suspension-agreement-with-mexico-shapes-the-u-s-market)
+- [Southern Ag Today – WASDE Reports](https://southernagtoday.org/2024/05/13/may-wasde-projects-higher-supplies-and-lower-prices-again-in-2024)
+- [Southern Ag Today – Sorghum Premium Drop](https://southernagtoday.org/2025/01/22/export-challenges-drive-down-sorghum-premiums)
 
 License
 This project is licensed under the MIT License.
