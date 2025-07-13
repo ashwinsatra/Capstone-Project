@@ -141,18 +141,19 @@ This report covers:
 
 - Forecasts
 
-Policy and supply chain recommendations
+- Policy and supply chain recommendations
 
-👥 Contributors
-Fatima
+## Contributors
+- Fatima
 
-Sunny
+- Sunny
 
-Dushyant
+- Dushyant
 
-Ashwin Satra – LinkedIn | Website
+- Ashwin Satra – LinkedIn | Website
 
-References
+## References
+
 Southern Ag Today – U.S. Beef Imports
 
 USDA Economic Research Service – Seafood Imports
