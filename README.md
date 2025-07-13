@@ -151,7 +151,9 @@ This report covers:
 - [Southern Ag Today – WASDE Reports](https://southernagtoday.org/2024/05/13/may-wasde-projects-higher-supplies-and-lower-prices-again-in-2024)
 - [Southern Ag Today – Sorghum Premium Drop](https://southernagtoday.org/2025/01/22/export-challenges-drive-down-sorghum-premiums)
 
-License
-This project is licensed under the MIT License.
+## License
+- This project is licensed under the MIT License.
 
+```bash
 Let me know if you also want a sample `.gitignore`, `LICENSE` file, or Python starter script to go with this.
+```
