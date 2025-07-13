@@ -7,25 +7,45 @@ This project investigates the evolution of U.S. food import patterns using data-
 ## Project Structure
 
 Capstone-Project/
+
 │
+
 ├── data/ # Raw dataset from Data.gov
+
 │ └── us_food_imports.csv
+
 │
+
 ├── notebooks/ # Jupyter notebooks for EDA and modeling
+
 │ └── analysis.ipynb
+
 │
+
 ├── src/ # Python scripts
+
 │ └── main_analysis.py
+
 │
+
 ├── report/ # Final project report
+
 │ ├── Group_1_Report.pdf
+
 │ └── Group_1_Report.docx
+
 │
+
 ├── visuals/ # Charts, graphs, and plots
+
 │ └── import_trends.png
+
 │
+
 ├── .gitignore
+
 ├── LICENSE # Optional (MIT or any license of your choice)
+
 └── README.md # This file
 
 
