@@ -6,8 +6,7 @@ This project investigates the evolution of U.S. food import patterns using data-
 
 ## Project Structure
 
-us-food-import-analysis/
-
+Capstone-Project/
 │
 ├── data/ # Raw dataset from Data.gov
 │ └── us_food_imports.csv
