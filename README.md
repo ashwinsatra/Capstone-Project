@@ -12,13 +12,13 @@ Capstone-Project/
 
 ├── data/ # Raw dataset from Data.gov
 
-│ └── us_food_imports.csv
+│ └── FoodImports.xlsx
 
 │
 
 ├── notebooks/ # Jupyter notebooks for EDA and modeling
 
-│ └── analysis.ipynb
+│ └── Capstone.Rmd
 
 │
 
