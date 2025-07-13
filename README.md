@@ -9,7 +9,7 @@ This project investigates the evolution of U.S. food import patterns using data-
 us-food-import-analysis/
 
 │
-├── data/ # Raw dataset from Data.gov
+├── data/ # Raw dataset from Data.gov.
 │ └── us_food_imports.csv
 │
 ├── notebooks/ # Jupyter notebooks for EDA and modeling
