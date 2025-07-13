@@ -22,15 +22,7 @@ Capstone-Project/
 
 │
 
-├── src/ # Python scripts
-
-│ └── main_analysis.py
-
-│
-
 ├── report/ # Final project report
-
-│ ├── Group_1_Report.pdf
 
 │ └── Group_1_Report.docx
 
@@ -38,13 +30,6 @@ Capstone-Project/
 
 ├── visuals/ # Charts, graphs, and plots
 
-│ └── import_trends.png
-
-│
-
-├── .gitignore
-
-├── LICENSE # Optional (MIT or any license of your choice)
 
 └── README.md # This file
 
