@@ -121,24 +121,25 @@ python main_analysis.py
 
 Dependencies: pandas, matplotlib, seaborn, scikit-learn, statsmodels
 
-Final Report
+## Final Report
+
 You can find the full project write-up in the report/ folder:
 
-Group_1_Report.pdf
+- Group_1_Report.pdf
 
-Group_1_Report.docx (editable version)
+- Group_1_Report.docx (editable version)
 
 This report covers:
 
-Research questions
+- Research questions
 
-Methodology
+- Methodology
 
-Data sources
+- Data sources
 
-Results
+- Results
 
-Forecasts
+- Forecasts
 
 Policy and supply chain recommendations
 
