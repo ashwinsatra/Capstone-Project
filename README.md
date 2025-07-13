@@ -9,7 +9,7 @@ This project investigates the evolution of U.S. food import patterns using data-
 us-food-import-analysis/
 
 │
-├── data/ # Raw dataset from Data.gov.
+├── data/ # Raw dataset from Data.gov
 │ └── us_food_imports.csv
 │
 ├── notebooks/ # Jupyter notebooks for EDA and modeling
@@ -102,6 +102,8 @@ python main_analysis.py
 
 Dependencies: pandas, matplotlib, seaborn, scikit-learn, statsmodels
 
+---
+
 ## Final Report
 
 You can find the full project write-up in the report/ folder:
@@ -116,11 +118,15 @@ This report covers:
 - Forecasts
 - Policy and supply chain recommendations
 
+---
+
 ## Contributors
 - Fatima
 - Sunny
 - Dushyant
 - Ashwin Satra – [LinkedIn](https://www.linkedin.com/in/ashwin-satra) | [Website](https://www.ashwinsatra.com)
+
+---
 
 ## References
 
@@ -131,6 +137,8 @@ This report covers:
 - [Southern Ag Today – Tomato Trade Wars](https://southernagtoday.org/2025/05/01/tomato-trade-wars-how-the-suspension-agreement-with-mexico-shapes-the-u-s-market)
 - [Southern Ag Today – WASDE Reports](https://southernagtoday.org/2024/05/13/may-wasde-projects-higher-supplies-and-lower-prices-again-in-2024)
 - [Southern Ag Today – Sorghum Premium Drop](https://southernagtoday.org/2025/01/22/export-challenges-drive-down-sorghum-premiums)
+
+---
 
 ## License
 - This project is licensed under the MIT License.
